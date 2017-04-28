@@ -1,0 +1,25 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "node express handlebars exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yousrat/burger.git"
+  },
+  "keywords": [
+    "express",
+    "node.js",
+    "handlebars"
+  ],
+  "author": "Yousra Elbanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yousrat/burger/issues"
+  },
+  "homepage": "https://github.com/Yousrat/burger#readme"
+}
